@@ -77,8 +77,8 @@ Note: The software assumes to be first launched in Windows Audit mode from a USB
 21. Windows Activation (with valid activation key provided by tester)
 22. Restore point creation (right before shipping)
 23. Telegram bot integration: sends messages at any step (currently sends message when human attention is needed); maintains a constantly updated todo-list for each order that records problematic or failed tests; sends all benchmarking scores with order no for record purpose and future use.
-    ![img_5.png](img_5.png)
-    ![img_3.png](img_3.png)
+
+![img_3.png](img_3.png)
 
 ## Technical Details
 
